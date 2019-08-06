@@ -1,0 +1,17 @@
+.data{
+    table-layout: fixed;
+    width: 100%   
+}
+
+.white {
+    background-color: lightgrey;
+}
+
+
+.navbar-brand{
+    margin-left:30px;
+    margin-top: :0px;
+    padding:15px;
+    font-weighted:bold;
+    font-family: Georgia
+}
